@@ -1,4 +1,4 @@
-# Yurei Fast Filter (Assembly)
+# Yurei Fast Filter
 
 **Project Yurei** - High-Performance On-Chain Intelligence Layer.
 
