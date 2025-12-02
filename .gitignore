@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules
+
+# Temporary Rust files (used for tool installation workaround)
+Cargo.toml
+Cargo.lock
+src/lib.rs
+package-lock.json
