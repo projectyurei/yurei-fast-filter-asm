@@ -1,0 +1,15 @@
+{
+  "name": "yurei-fast-filter-asm",
+  "version": "1.0.0",
+  "description": "High-performance Solana Assembly filter for Project Yurei",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  },
+  "author": "Project Yurei",
+  "license": "ISC"
+}
